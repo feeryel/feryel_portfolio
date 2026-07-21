@@ -176,7 +176,7 @@ export default function Header() {
 
           {/* Download CV */}
           <a
-            href="/Resume_Feryel.pdf"
+            href="/feryel_resume.pdf"
             download="Feryel_CV.pdf"
             className="
               px-4 py-2

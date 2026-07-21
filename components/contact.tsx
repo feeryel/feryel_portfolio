@@ -632,7 +632,7 @@ export default function Contact() {
             {/* DOWNLOAD */}
 
             <a
-              href="/Resume_Feryel.pdf"
+              href="/feryel_resume.pdf"
               download
               className="
                 group

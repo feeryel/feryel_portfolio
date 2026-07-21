@@ -693,7 +693,7 @@ export default function Hero() {
                 </a>
 
                 <a
-                  href="/Resume_Feryel.pdf"
+                  href="/feryel_resume.pdf"
                   download
                   className="
                     inline-flex
